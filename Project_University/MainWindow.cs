@@ -28,7 +28,6 @@ namespace Project_University
         {
             AddNewClientWindow ancWin = new AddNewClientWindow();
             ancWin.Show();
-
         }
 
     }
