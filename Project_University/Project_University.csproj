@@ -59,6 +59,7 @@
       <DependentUpon>AuthWindow.cs</DependentUpon>
     </Compile>
     <Compile Include="Client.cs" />
+    <Compile Include="DataBase.cs" />
     <Compile Include="Date.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
